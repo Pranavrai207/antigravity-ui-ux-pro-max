@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Gemini / Assistant specific
+.gemini/
+.antigravity/
+.planning/
+.agent/
+.claude/
+.codebuddy/
+.codex/
+.continue/
+.cursor/
+.kiro/
+.opencode/
+.qoder/
+.roo/
+.trae/
+.windsurf/
+
+# Archives
+*.rar
+*.zip
+*.7z
+
+# Local development
+design-system/
+data/*.csv
+!data/README.md
